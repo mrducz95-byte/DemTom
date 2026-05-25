@@ -1,0 +1,6 @@
+{
+  "name": "Shrimp Counter",
+  "description": "Ứng dụng đếm tôm giống thông minh sử dụng AI. Hỗ trợ giả lập trên Web và cung cấp mã nguồn Kotlin & Jetpack Compose chuẩn Material Design 3.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
